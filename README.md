@@ -19,7 +19,7 @@
   <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="25"/></span>
   <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25"/></span>
 
-<br><br>
+<br>
 
 <h2 align="center">Contact me 🤖</h2>
 <br>
