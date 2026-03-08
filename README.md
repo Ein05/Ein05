@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="center">Contact me 🤖</h2>
+<h2 align="center">🤖 Contact me 🤖</h2>
 <br>
 
 <div align="center">
@@ -43,3 +43,9 @@
 </a>
 
 </div>
+
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+
+<p align="center"><i>"Now or Never"</i></p>
