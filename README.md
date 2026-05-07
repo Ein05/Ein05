@@ -17,7 +17,6 @@
   <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=vscode&logoColor=007ACC" height="25"/></span>
   <span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" height="25"/></span>
   <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="25"/></span>
-  <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25"/></span>
 
 <br>
 
