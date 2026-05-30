@@ -1,3 +1,4 @@
+<!-- Header -->
 <p align="center">
   <img src="mario.gif" width="80%" alt="banner"/>
 </p>
@@ -9,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,github,html,css,js,sql,py,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,github,html,css,js,postgres,py,vscode&perline=10" />
   </a>
 </p>
 
