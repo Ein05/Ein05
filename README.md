@@ -23,9 +23,8 @@
     <img src="https://img.icons8.com/?size=70&id=-x2V8Q63DerT&format=png&color=000000"/>
   </a>
 
-  <a href="https://zalo.me/sdt">
-    <img src="https://img.icons8.com/?size=70&id=HtQAciyY7o1f&format=png&color=000000"/>
-  </a>
+  <a href="https://www.youtube.com/@EinVu">
+    <img src="https://img.icons8.com/bubbles/70/youtube-play.png"/>
 </p>
 
 <h2 align="center">📑 Favorite Quote 📑</h2>
