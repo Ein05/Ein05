@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mario.gif" width="80%" alt="banner"/>
+  <img src="mario.gi" width="80%" alt="banner"/>
 </p>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
